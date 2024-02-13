@@ -1,14 +1,10 @@
-body {
 
-      
-background-image: url("https://e0.pxfuel.com/wallpapers/206/33/desktop-wallpaper-ps3-animated-ps3-slim-thumbnail.jpg");
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
-background-position: center;
-background-attachment: fixed;
+<style>
+  body {
+    background-image: url('https://img2.wallspic.com/previews/7/9/6/0/5/150697/150697-arte-diseno_grafico-ilustracion-dios_de_la_guerra-dios_de_la_guerra_ii-x750.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+</style>
 
-
-
-
-}
